@@ -1,10 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junya42&show_icons=true&theme=radical)
 
 - Student at @42school
-- Jack of all trades
-- Currently invested on learning new things
-- C / C#
-- Algorithms
+- C / C++
 
 [![anremiki's 42 stats](https://badge42.vercel.app/api/v2/stats/cl180lomu006009mcp03u1zev?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 
