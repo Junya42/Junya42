@@ -9,5 +9,9 @@
 - Nest
 - Prisma
 - GraphQL
-- Vite
+- Next
+- Tailwind
 - Html / Css
+- Unix
+- Docker
+- Kubernetes
