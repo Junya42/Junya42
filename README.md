@@ -1,6 +1,6 @@
 [![anremiki's 42 stats](https://badge.mediaplus.ma/starryblue/anremiki)](https://github.com/oakoudad/badge42)
 
-- Student at @42school
+- 42 Paris student
 - C / C++
 - Assembly
 - React
